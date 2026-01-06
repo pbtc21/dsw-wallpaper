@@ -1,0 +1,9 @@
+name = "dsw-wallpaper"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dsw-crm"
+database_id = "f5ac8193-fa75-4117-8fad-8b23ba295c1b"
