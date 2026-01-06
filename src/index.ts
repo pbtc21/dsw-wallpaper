@@ -405,21 +405,21 @@ app.get('/', (c) => {
       <p class="section-subtitle">Selected Works</p>
       <div class="gallery">
         <div class="gallery-item">
-          <img src="https://images.unsplash.com/photo-1549989476-69a92fa57c36?w=800&q=80" alt="Chinoiserie - Hand painted silk with birds and blossoms" style="object-position: center;">
+          <img src="https://degournay.com/uploads/product_category/original/03112022103854.jpg" alt="Chinoiserie - Hand painted silk with birds and blossoms">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 2rem; background: linear-gradient(transparent, rgba(0,0,0,0.6)); color: white;">
             <span style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; display: block;">Chinoiserie</span>
             <span style="font-size: 0.7rem; letter-spacing: 0.1em; opacity: 0.9;">Hand painted silk</span>
           </div>
         </div>
         <div class="gallery-item">
-          <img src="https://images.unsplash.com/photo-1487530811176-3780de880c2d?w=800&q=80" alt="Botanicals - Watercolor florals on paper" style="object-position: center;">
+          <img src="https://degournay.com/uploads/product_category/original/06052025040549.webp" alt="Botanicals - Watercolor florals on paper">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 2rem; background: linear-gradient(transparent, rgba(0,0,0,0.6)); color: white;">
             <span style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; display: block;">Botanicals</span>
             <span style="font-size: 0.7rem; letter-spacing: 0.1em; opacity: 0.9;">Watercolor on paper</span>
           </div>
         </div>
         <div class="gallery-item">
-          <img src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80" alt="Scenic - Pastoral landscapes on linen" style="object-position: center;">
+          <img src="https://degournay.com/uploads/product_category/original/03112022104901.jpg" alt="Scenic - Pastoral landscapes on linen">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 2rem; background: linear-gradient(transparent, rgba(0,0,0,0.6)); color: white;">
             <span style="font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; display: block;">Scenic</span>
             <span style="font-size: 0.7rem; letter-spacing: 0.1em; opacity: 0.9;">Oil on linen</span>
